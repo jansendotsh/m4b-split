@@ -3,6 +3,7 @@ A quick and dirty Python tool to split M4B files into MP3 files using their embe
 
 ## Requirements
 - Python 3
+  - ffmpeg-python
 - ffmpeg
 
 ## Usage
